@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x03-log_parsing
 
 Write a script that reads stdin line by line and computes metrics:
@@ -78,3 +79,6 @@ Warning: In this sample, you will have random value - it’s normal to not have 
         sleep(random.random())
     KeyboardInterrupt
     alexa@ubuntu:~/0x03-log_parsing$ 
+=======
+read
+>>>>>>> 5185dc92da6cb03771250f0b59b90b1aa9d86693
